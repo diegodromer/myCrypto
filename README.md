@@ -1,2 +1,2 @@
-# myCoin
+# myCrypto
 Minha criptomoeda
